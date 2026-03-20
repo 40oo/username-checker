@@ -143,6 +143,6 @@ join for help, updates and to share your finds
 
 <div align="center">
 
-made by [0fbq](https://github.com/40oo)
+made by [40oo](https://github.com/40oo)
 
 </div>
