@@ -68,6 +68,8 @@
 
 ## installation
 
+### Windows
+
 **1. clone the repo**
 ```
 git clone https://github.com/40oo/username-checker.git
@@ -79,14 +81,50 @@ cd username-checker
 pip install requests colorama
 ```
 
-> on Linux / Mac use `pip3` instead of `pip`
-
 **3. run**
 ```
 python username_checker.py
 ```
 
-> on Linux / Mac use `python3` instead of `python`
+---
+
+### Linux
+
+**1. clone the repo**
+```
+git clone https://github.com/40oo/username-checker.git
+cd username-checker
+```
+
+**2. install dependencies**
+```
+pip3 install requests colorama --break-system-packages
+```
+
+**3. run**
+```
+python3 username_checker.py
+```
+
+---
+
+### macOS
+
+**1. clone the repo**
+```
+git clone https://github.com/40oo/username-checker.git
+cd username-checker
+```
+
+**2. install dependencies**
+```
+pip3 install requests colorama
+```
+
+**3. run**
+```
+python3 username_checker.py
+```
 
 ---
 
