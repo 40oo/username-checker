@@ -21,7 +21,7 @@ THREADS = 25
 DELAY = 0.05
 RETRIES = 3
 VERSION = "1.0"
-AUTHOR = "0fbq"
+AUTHOR = "40oo"
 
 outdir = os.path.dirname(os.path.abspath(__file__))
 
