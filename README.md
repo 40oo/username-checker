@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="preview.png" alt="checker preview" width="700"/>
+<img src="checker.png" alt="checker preview" width="700"/>
 
 <br/>
 
