@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![Watch Tutorial](https://img.shields.io/badge/Watch%20Tutorial-YouTube-red?style=for-the-badge&logo=youtube)]((https://youtu.be/RQRQRte313Q))
+[![Watch Tutorial](https://img.shields.io/badge/Watch%20Tutorial-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/RQRQRte313Q)
 
 </div>
 
