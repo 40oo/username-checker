@@ -16,7 +16,7 @@
 
 <br/>
 
-[**Download**](#installation) • [**Platforms**](#platforms) • [**Usage**](#usage) • [**Discord**](https://discord.gg/c95uE5ejff)
+[**Download**](#installation) • [**Platforms**](#platforms) • [**Usage**](#usage) • [**Discord**](https://discord.gg/8EEAR8qtdx)
 
 </div>
 
@@ -210,7 +210,7 @@ nexon
 
 <div align="center">
 
-[![Discord Server](https://img.shields.io/badge/Join%20the%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c95uE5ejff)
+[![Discord Server](https://img.shields.io/badge/Join%20the%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8EEAR8qtdx)
 
 join for help, updates and to share your finds
 
